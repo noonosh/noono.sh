@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://noono.sh
+
+# Sitemaps
+Sitemap: https://noono.sh/sitemap.xml
