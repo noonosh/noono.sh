@@ -1,6 +1,6 @@
 const BLOG = {
   title: "noonosh",
-  author: "Nuriddin Islamov",
+  author: "noonosh",
   email: "mail@noono.sh",
   link: "https://noono.sh",
   description: "just curious about tech",
